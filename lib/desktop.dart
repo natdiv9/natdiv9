@@ -37,7 +37,7 @@ class _DesktopLayoutState extends State<DesktopLayout> {
                   color: AppColor.lines,
                 ),
                 const SizedBox(
-                  height: 48,
+                  height: 32,
                 ),
                 Expanded(
                     child: Center(
@@ -47,7 +47,7 @@ class _DesktopLayoutState extends State<DesktopLayout> {
                   ),
                 )),
                 const SizedBox(
-                  height: 48,
+                  height: 32,
                 ),
                 Container(
                   height: 1,

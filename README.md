@@ -1,14 +1,46 @@
-# Christian Mwamba (Natdiv9) Portfolio
 
-Flutter web application build for my portfolio
+# ![App UI](cover.png)
 
-This is a Developers Portfolio design concept V.2. It replicates Visual Studio Code
+_______________________________________________________
 
+# Christian Mwamba
 
-#### This design is inspired from Yanka Darelova design concept
+Hello 👋
 
-[Link to original design concept](https://www.behance.net/gallery/142207047/Portfolio-Concept-V2), made in figma,
+Welcome on my Github Page.
 
-### Final UI
+I am a software engineer, currently working as a mobile  developer at [Goomy](https://goomy-technology.web.app). I am passionate about building software that solves real world problems. I am also a big fan of open source and I am always looking for ways to contribute to the community.
 
-![App UI](/ui.png)
+## My skills
+
+- Mobile development with Flutter(Android, iOS)
+- Web development (HTML, CSS, JavaScript, Angular)
+- Backend development (NodeJS, Cloud Functions, PHP, Python)
+- Database (MySQL, Firebase)
+- Linux (Debian)
+
+## Achievements
+
+### 1 - [inte-eco](https://inte-eco.web.app)
+
+Software for monitoring information from air pollution level sensors in real time.
+
+Used technologies: Flutter, Firebase, Google Cloud Functions(nodejs), Python
+
+![App UI](projects_cover/inte-eco.png)
+
+### 2 - [kokorico](https://github.com/natdiv9/kokorico)
+
+Mobile application for the on-line sale of products from a farm.
+
+Used technologies: Flutter, Firebase, Google Cloud Functions(nodejs), Push Notifications
+
+![App UI](projects_cover/kokorico.jpg)
+
+### 3 - [Internews](https://internews.web.app)
+
+Web and mobile application to raise awareness of the electoral process among the Congolese population..
+
+Used technologies: Flutter, API Rest, Leaftlet,
+
+![App UI](projects_cover/internews.png)
