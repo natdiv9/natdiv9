@@ -25,11 +25,19 @@ I am a software engineer, currently working as a mobile  developer at [Zeghen](h
 
 Software for monitoring information from air pollution level sensors in real time.
 
-Used technologies: Flutter, Firebase, Google Cloud Functions(nodejs), Python
+Used technologies: Flutter (Web), Firebase, Google Cloud Functions(nodejs), Python
 
 ![App UI](projects_cover/inte-eco.png)
 
-### 2 - [kokorico](https://github.com/natdiv9/kokorico)
+### 2 - [zeghen-crm](https://zeghen.com)
+
+Development of a mobile CRM as an employee for the company Zeghen
+
+Used technologies: Flutter
+
+![App UI](projects_cover/zeghen.jpg)
+
+### 3 - [kokorico](https://github.com/natdiv9/kokorico)
 
 Mobile application for the on-line sale of products from a farm.
 
@@ -37,7 +45,7 @@ Used technologies: Flutter, Firebase, Google Cloud Functions(nodejs), Push Notif
 
 ![App UI](projects_cover/kokorico.jpg)
 
-### 3 - [Internews](https://internews.web.app)
+### 4 - [Internews](https://github.com/natdiv9/internews-app)
 
 Web and mobile application to raise awareness of the electoral process among the Congolese population..
 
