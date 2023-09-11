@@ -41,7 +41,7 @@ Used technologies: Flutter
 
 Mobile application for the on-line sale of products from a farm.
 
-Used technologies: Flutter, Firebase, Google Cloud Functions(nodejs), Push Notifications
+Used technologies: Flutter
 
 ![App UI](projects_cover/kokorico.jpg)
 
