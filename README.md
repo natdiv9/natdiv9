@@ -9,7 +9,7 @@ Hello 👋
 
 Welcome on my Github Page.
 
-I am a software engineer, currently working as a mobile  developer at [Zeghen](https://zeghen.com/). I am passionate about building software that solves real world problems. I am also a big fan of open source and I am always looking for ways to contribute to the community.
+I am a software engineer, currently working in freelance as a mobile  developer (recently worked at [Zeghen](https://zeghen.com/) as a mobile developer). I am passionate about building software that solves real world problems. I am also a big fan of open source and I am always looking for ways to contribute to the community.
 
 ## My skills
 
