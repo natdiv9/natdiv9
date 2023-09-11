@@ -49,6 +49,6 @@ Used technologies: Flutter
 
 Web and mobile application to raise awareness of the electoral process among the Congolese population..
 
-Used technologies: Flutter, API Rest, Leaftlet,
+Used technologies: Flutter, API Rest, Leaftlet
 
 ![App UI](projects_cover/internews.png)
