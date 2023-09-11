@@ -14,9 +14,9 @@ I am a software engineer, currently working as a mobile  developer at [Zeghen](h
 ## My skills
 
 - Mobile development with Flutter(Android, iOS)
-- Web development (HTML, CSS, JavaScript, Angular)
+- Web development (JavaScript, Angular, Nodejs, HTML, CSS)
 - Backend development (NodeJS, Cloud Functions, PHP, Python)
-- Database (MySQL, Firebase)
+- Database (MySQL, Firebase Firestore)
 - Linux (Debian)
 
 ## Achievements
