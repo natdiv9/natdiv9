@@ -21,7 +21,15 @@ I am a software engineer, currently working in freelance as a mobile  developer 
 
 ## Achievements
 
-### 1 - [inte-eco](https://inte-eco.web.app)
+### 1 - [control]
+
+Mobile application used by the Lubumbashi city council to control and regulate street vendors (Marché pirate) in the commercial city center.
+
+Used technologies: Flutter & Firebase
+
+![App UI](projects_cover/control.png)
+
+### 2 - [inte-eco](https://inte-eco.web.app)
 
 Software for monitoring information from air pollution level sensors in real time.
 
@@ -29,7 +37,7 @@ Used technologies: Flutter (Web), Firebase, Google Cloud Functions(nodejs), Pyth
 
 ![App UI](projects_cover/inte-eco.png)
 
-### 2 - [zeghen-crm](https://zeghen.com)
+### 3 - [zeghen-crm](https://zeghen.com)
 
 Development of a mobile CRM as an employee for the company Zeghen
 
@@ -37,7 +45,7 @@ Used technologies: Flutter
 
 ![App UI](projects_cover/zeghen.jpg)
 
-### 3 - [kokorico](https://github.com/natdiv9/kokorico)
+### 4 - [kokorico](https://github.com/natdiv9/kokorico)
 
 Mobile application for the on-line sale of products from a farm.
 
@@ -45,7 +53,7 @@ Used technologies: Flutter
 
 ![App UI](projects_cover/kokorico.jpg)
 
-### 4 - [Internews](https://github.com/natdiv9/internews-app)
+### 5 - [UWAZZI](https://github.com/natdiv9/internews-app)
 
 Web and mobile application to raise awareness of the electoral process among the Congolese population..
 
